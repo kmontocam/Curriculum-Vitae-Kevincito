@@ -6,7 +6,7 @@
 
     - 19 años de edad
     - Nacido en Culiacán, Sinaloa
-s
+
 ## Habilidades: 
 
     - Próximamente
